@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "627097414145",
+    "firebase_url": "https://gidi3-9ec00.firebaseio.com",
+    "project_id": "gidi3-9ec00",
+    "storage_bucket": "gidi3-9ec00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627097414145:android:c662a89ea4b01ad7",
+        "android_client_info": {
+          "package_name": "com.example.aanya.gidi3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627097414145-hpei79q2qkvp5kq4r7nngahuj7fnh2ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC028IVsk3npMBd_b1e0aSv_4VoEYuIMgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
