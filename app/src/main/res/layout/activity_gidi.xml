@@ -10,43 +10,43 @@
     android:weightSum="1">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btnProfile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Profile" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/btnExercise"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Exercise Guides" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/btnWorkout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Workouts" />
 
     <Button
-        android:id="@+id/button9"
+        android:id="@+id/btnNutrition"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Nutrition" />
 
     <Button
-        android:id="@+id/button10"
+        android:id="@+id/btnStretches"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Stretches" />
 
     <Button
-        android:id="@+id/button11"
+        android:id="@+id/btnChallenges"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Challenges" />
 
     <Button
-        android:id="@+id/button6"
+        android:id="@+id/btnMusic"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Music" />

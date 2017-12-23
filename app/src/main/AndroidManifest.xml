@@ -21,7 +21,13 @@
         <activity android:name=".Register" />
         <activity android:name=".SignIn" />
         <activity android:name=".Profile" />
-        <activity android:name=".GidiActivity"></activity>
+        <activity android:name=".GidiActivity" />
+        <activity android:name=".Exercises" />
+        <activity android:name=".Workout" />
+        <activity android:name=".Challenges" />
+        <activity android:name=".Nutrition" />
+        <activity android:name=".Music" />
+        <activity android:name=".Stretches"></activity>
     </application>
 
 </manifest>
