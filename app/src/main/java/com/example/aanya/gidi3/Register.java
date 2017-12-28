@@ -57,15 +57,18 @@ public class Register extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> adapterView, View view, int position, long id) {
                 switch (position){
                     case  0:
-                        Toast.makeText(getApplicationContext(),"Ireland selected",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Select Location",Toast.LENGTH_LONG).show();
                         break;
                     case  1:
-                        Toast.makeText(getApplicationContext(),"UK selected",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Ireland selected",Toast.LENGTH_LONG).show();
                         break;
                     case  2:
-                        Toast.makeText(getApplicationContext(),"Sweden selected",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"UK selected",Toast.LENGTH_LONG).show();
                         break;
                     case  3:
+                        Toast.makeText(getApplicationContext(),"Sweden selected",Toast.LENGTH_LONG).show();
+                        break;
+                    case  4:
                         Toast.makeText(getApplicationContext(),"Japan selected",Toast.LENGTH_LONG).show();
                         break;
                     default:
@@ -85,7 +88,7 @@ public class Register extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> adapterView, View view, int position, long is) {
                 switch (position){
                     case  0:
-                        Toast.makeText(getApplicationContext(),"Age group selected",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Select age range",Toast.LENGTH_LONG).show();
                         break;
                     case  1:
                         Toast.makeText(getApplicationContext(),"Age group selected",Toast.LENGTH_LONG).show();
@@ -94,6 +97,9 @@ public class Register extends AppCompatActivity {
                         Toast.makeText(getApplicationContext(),"Age group selected",Toast.LENGTH_LONG).show();
                         break;
                     case  3:
+                        Toast.makeText(getApplicationContext(),"Age group selected",Toast.LENGTH_LONG).show();
+                        break;
+                    case  4:
                         Toast.makeText(getApplicationContext(),"Age group selected",Toast.LENGTH_LONG).show();
                         break;
                     default:
@@ -113,9 +119,12 @@ public class Register extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> adapterView, View view, int position, long id) {
                 switch (position){
                     case  0:
-                        Toast.makeText(getApplicationContext(),"Male selected",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Select Sex",Toast.LENGTH_LONG).show();
                         break;
                     case  1:
+                        Toast.makeText(getApplicationContext(),"Male selected",Toast.LENGTH_LONG).show();
+                        break;
+                    case  2:
                         Toast.makeText(getApplicationContext(),"Female selected",Toast.LENGTH_LONG).show();
                         break;
                     default:
@@ -135,12 +144,15 @@ public class Register extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> adapterView, View view, int position, long id) {
                 switch (position){
                     case  0:
-                        Toast.makeText(getApplicationContext(),"5'0 to 5'5 selected",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Select height range",Toast.LENGTH_LONG).show();
                         break;
                     case  1:
+                        Toast.makeText(getApplicationContext(),"5'0 to 5'5 selected",Toast.LENGTH_LONG).show();
+                        break;
+                    case  2:
                         Toast.makeText(getApplicationContext(),"5'6 to 5'11 selected",Toast.LENGTH_LONG).show();
                         break;
-                    case 2:
+                    case 3:
                         Toast.makeText(getApplicationContext(),"6'0 to 6'5 selected",Toast.LENGTH_LONG).show();
                     default:
                         break;

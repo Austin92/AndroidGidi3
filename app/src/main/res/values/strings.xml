@@ -1,22 +1,26 @@
 <resources>
     <string name="app_name">Gidi3</string>
     <string-array name="spinner_location">
+        <item>Select location</item>
         <item>Ireland</item>
         <item>UK</item>
         <item>Sweden</item>
         <item>Japan</item>
     </string-array>
     <string-array name="spinner_age">
+        <item>Select age range</item>
         <item>Under 18</item>
         <item>18 to 24</item>
         <item>25 to 64</item>
         <item> 65 or older</item>
     </string-array>
     <string-array name="spinner_sex">
+        <item>Select sex</item>
         <item>Male</item>
         <item>Female</item>
     </string-array>
     <string-array name="spinner_height">
+        <item>Select height range</item>
         <item>5.0 to 5.5</item>
         <item>5.6 to 5.11</item>
         <item>6.0 to 6.5</item>

@@ -27,7 +27,32 @@
         <activity android:name=".Challenges" />
         <activity android:name=".Nutrition" />
         <activity android:name=".Music" />
-        <activity android:name=".Stretches"></activity>
+        <activity android:name=".Stretches" />
+        <activity android:name=".ChestActivity" />
+        <activity android:name=".BackActivity" />
+        <activity android:name=".ShoulderActivity" />
+        <activity android:name=".BicepsActivity" />
+        <activity android:name=".TricepsActivity" />
+        <activity android:name=".LegsActivity" />
+        <activity android:name=".ForearmsActivity" />
+        <activity android:name=".CalfActivity" />
+        <activity android:name=".AbsActivity" />
+        <activity android:name=".WbeginnerActivity" />
+        <activity android:name=".WintermediateActivity" />
+        <activity android:name=".WadvanceActivity" />
+        <activity android:name=".NdietplansActivity" />
+        <activity android:name=".NsupplementsActivity" />
+        <activity android:name=".NhealthymealsActivity" />
+        <activity android:name=".NorderhealthymealActivity" />
+        <activity android:name=".CsquatsActivity" />
+        <activity android:name=".CpushupsActivity" />
+        <activity android:name=".CpullupsActivity" />
+        <activity android:name=".DipsActivity" />
+        <activity android:name=".CsitupsActivity" />
+        <activity android:name=".CchestpressActivity" />
+        <activity android:name=".SongsActivity" />
+        <activity android:name=".PlaylistsActivity" />
+        <activity android:name=".VideosActivity"></activity>
     </application>
 
 </manifest>
